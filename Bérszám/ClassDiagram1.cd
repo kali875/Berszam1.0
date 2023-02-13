@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bérszám.Operation.DataBase">
+    <Position X="4" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAgIAAAAABAAAEAAAAABAAAAAAAAAIAABAAAQAAAAA=</HashCode>
+      <FileName>Operation\DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bérszám.Operation.Delete&lt;T&gt;">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Operation\DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bérszám.Operation.Insert&lt;T&gt;">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAYAAAAAEA=</HashCode>
+      <FileName>Operation\DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bérszám.Operation.Select&lt;T&gt;">
+    <Position X="6" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAIAAAAAAA=</HashCode>
+      <FileName>Operation\DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bérszám.Operation.Update&lt;T&gt;">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>Operation\DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
